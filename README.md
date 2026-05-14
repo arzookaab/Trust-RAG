@@ -40,6 +40,7 @@ The project is organized around seven research questions:
 The primary dataset used in this project is:
 
 - **SQuAD v2**
+- https://www.kaggle.com/datasets/thedevastator/squad2-0-a-challenge-for-question-answering-syst
 
 SQuAD v2 provides question, context, and answer triples, making it suitable for evaluating question-answering and retrieval-augmented generation systems.
 
